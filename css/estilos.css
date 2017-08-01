@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{
+	width: 100px;
+	height: auto;
+}
+.redesSociales{
+	padding-left:5%;
+	padding-top:5%;
+} 
+.bgDos{
+	background-color: aquamarine;
+}
+.ajuste{
+	padding-top:2em;
+}
