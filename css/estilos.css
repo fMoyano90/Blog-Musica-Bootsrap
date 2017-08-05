@@ -1,6 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
+h2{
+	color:dodgerblue;
+}
+img {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
 .logo{
+	padding-top: 0;
 	width: 100px;
 	height: auto;
 }
@@ -8,9 +16,11 @@
 	padding-left:5%;
 	padding-top:5%;
 } 
-.bgDos{
-	background-color: aquamarine;
-}
 .ajuste{
-	padding-top:2em;
+	padding-top:1.5em;
 }
+.bg1{
+	background-color: dodgerblue;
+}
+.bg2{
+	background-color: crimson;
